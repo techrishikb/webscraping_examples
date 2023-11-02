@@ -50,7 +50,7 @@ def create_pdf(content_dict):
 if __name__ == "__main__":
     topic = "football"
     date = "2023-11-02"
-    api_key = "6927e73692f54d049c3761029cbf88a3"  # Replace with your actual API key
+    api_key = "******************************"  # Replace with your actual API key
 
     urls = get_news_urls(topic, date, api_key)
     news_content = extract_news_content(urls)

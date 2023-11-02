@@ -10,7 +10,7 @@ payload = json.dumps({
   "gl": "in"
 })
 headers = {
-  'X-API-KEY': 'caa76fbf6aaf014a7319a917687e1bcf5eada6d9',
+  'X-API-KEY': '******************************************',##replace with your own api key
   'Content-Type': 'application/json'
 }
 

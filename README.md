@@ -7,6 +7,12 @@
 * Navigate to the source page(https://newsapi.org/docs/endpoints/sources) to get the parameters which can be set to extract news using different endpoints.
 * Navigate to client library page(https://newsapi.org/docs/client-libraries) to quickly and easily get started with News API without having to make HTTP requests directly.
 * Navigate to python section(https://newsapi.org/docs/client-libraries/python) of client library to get started with basic code
+3. Serper
+* Navigate to serper dev login page (https://serper.dev/login) and create an account
+* Get the required api key from (https://serper.dev/api-key)
+* Navigate to the playground page(https://serper.dev/playground) to set different search parameter and get the required output.
+* Use GoogleSerperAPIWrapper to get the google search results using the api.
+  
 
 # Installation
 1. pip install newspaper3k
